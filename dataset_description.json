@@ -18,5 +18,6 @@
         "Laurent, H. K., Wright, D., Finnegan, M. K. (2018). Mindfulness-related differences in neural response to own-infant negative versus positive emotion contexts. Developmental Cognitive Neuroscience 30: 70-76. https://doi.org/10.1016/j.dcn.2018.01.002",
         "Finnegan, M. K., Kane, S., Heller, W., and Laurent, H. (2020). Mothers' neural response to valenced infant interactions predicts postnatal depression and anxiety. PLoS One (under review)."
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003136.v1.0.0"
+    "DatasetDOI": "10.18112/openneuro.ds003136.v1.0.0",
+    "HowToAcknowledge": "Laurent, H., Finnegan, M. K., and Haigler, K. (2020). Postnatal Affective Mri Dataset. OpenNeuro. DOI: 10.18112/openneuro.ds003136.v1.0.0."
 }
