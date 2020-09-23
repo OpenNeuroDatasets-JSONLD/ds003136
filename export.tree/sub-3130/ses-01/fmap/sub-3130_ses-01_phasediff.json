@@ -1,0 +1,21 @@
+{
+	"ConversionSoftware": "dicm2nii.m 20200120",
+	"SeriesNumber": 9,
+	"SeriesDescription": "gre_field_mapping",
+	"ImageType": ["ORIGINAL", "PRIMARY", "P", "ND"],
+	"Modality": "MR",
+	"RepetitionTime": 0.4,
+	"PhaseEncodingDirection": "i",
+	"EchoTime": 0.00738,
+	"SliceThickness": 4,
+	"FlipAngle": 60,
+	"Manufacturer": "SIEMENS",
+	"SoftwareVersion": "syngo MR D13C",
+	"MRAcquisitionType": "2D",
+	"InstitutionName": "Lewis Building",
+	"InstitutionAddress": "Franklin Blvd 1440,Eugene,District,US,97403",
+	"DeviceSerialNumber": "45348",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SP",
+	"SequenceName": "*fm2d2r"
+}
